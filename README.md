@@ -17,14 +17,16 @@ boookee-bok 是一个个人博客项目，旨在提供干净、快速的阅读�
 
 ## 技术栈
 
-| 层级     | 技术（拟选）         | 说明                     |
-| -------- | -------------------- | ------------------------ |
-| 框架     | Next.js              | React 全栈框架，SSG/SSR  |
-| 样式     | Tailwind CSS         | 原子化 CSS，快速开发     |
-| 内容     | MDX + Contentlayer   | Markdown 增强，支持组件  |
-| 部署     | Vercel / Cloudflare  | 边缘网络，全球加速       |
-| 评论     | Giscus / Waline      | 轻量评论系统             |
-| 分析     | Vercel Analytics     | 简单的访问统计           |
+基于 **Next.js** 构建，搭配配套工具链：
+
+| 层级     | 技术               | 说明                     |
+| -------- | ------------------ | ------------------------ |
+| 框架     | Next.js            | React 全栈框架，SSG/SSR  |
+| 样式     | Tailwind CSS       | 原子化 CSS，快速开发     |
+| 内容     | MDX + Contentlayer | Markdown 增强，支持组件  |
+| 部署     | Vercel / Cloudflare| 边缘网络，全球加速       |
+| 评论     | Giscus / Waline    | 轻量评论系统             |
+| 分析     | Vercel Analytics   | 简单的访问统计           |
 
 ## 快速开始
 
